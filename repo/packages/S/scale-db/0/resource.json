@@ -2,7 +2,7 @@
   "assets": {
     "container": {
       "docker": {
-        "b96e4b2c3ecf": "docker.io/droessne/scale:latest"
+        "95bf00b63afb": "docker.io/droessne/dcos-scale-db:latest"
       }
     }
   },
